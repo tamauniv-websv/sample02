@@ -1,1 +1,1 @@
-# sample02
+# kadai02
